@@ -1,0 +1,105 @@
+英语学习笔记
+一、自学准则
+1.不会的问题当时请教，学会，做笔记记录，准备随时被考查，不会就挨打。
+2.三思而后行，写出来的东西一定要是对的，错也只能错10%以内，超过就要挨打。
+3.任何事情都要有理由，有利可图，不然不能做。说不清理由还犟就挨打。
+4.自己的资料要清清楚楚。比如微信里每一个朋友的备注名。
+5.重要微信15分钟回复。
+二、句子成分定义
+1.主语：一个句子的主体，名词 
+2.谓语：主语后的第一个动词，时态特征动词除外（be，have） ，
+3.宾语：宾语为名词
+4.定语：以“的”结尾，修饰名词 
+5.状语：以“地”结尾，修饰动词/形容词/副词  then只能为状语
+6.补语： 和状语一样修饰动词，英语里都叫状语，汉语里动词前的叫状语，动词后的叫补语。
+三、句子结构分析
+1.定主状谓补定宾
+
+2.补语和状语是一样的，都是修饰动词，在英语里头，都可放在动词后面，可以是介宾短语，也可以是副词（以“地”结尾的）。在汉语里头，状语在动词前，补语在动词后。
+高兴地去上学：go to school happily。
+
+3.定语是形容词（以“的”结尾的）或者介宾短语，修饰名词，即主语 和宾语。
+桌子上的 大苹果：the big apple on the desk。
+
+4.一个句子只能有一个谓语，第二个动词一般用ing形式，或者不定式加to形式。 
+I want to eat breakfast。
+I like swimming。
+
+5.时态只作用于谓语动词上，现在进行时的 be + ing形式，谓语动词不是be。
+I am eating an apple。谓语动词是eat，时态是现在进行时。
+
+
+6.连词可以连接两个句子，或者两个祈使句，可以有两个动词。And，or，so，but, because, when, if
+Come and buy your clothes。
+
+7.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around ，
+The apple on the desk,
+In our room
+Under the desk
+8.动词不定式第2个动词加ing 当名词用
+9.动词不定式为一个句子有两个动词时，第二个动词前加to
+I like to play basketball
+They make rules to help us
+We have to follow them
+10.主系表结构
+系=是  包含be，look(看起来是)sound（听起来是）taste（吃起来是）come（变成是）后以“的”结尾的叫表语，表语都是形容词
+He is beautiful 漂亮的是
+He looks good 看起来是
+The apple tastes delicious 吃起来是美味的
+The listen sounds good 听起来是
+The dream comes true
+11.以“地”结尾的副词为状语
+12.同一个成分2个并列要加and。语法里头同一个成分2个要用连词，两个独立句子也要用连词连接
+You and me
+I eat and drink
+Dog and panda
+13.同位语：同一个东西（名词）的两个等价的说法，用逗号隔开，一般出现在主语和宾语两种情况，
+It is 9:00a.m. and Zhu Hui’s family are at home 
+14.动宾短语（动词ing形式+一个宾语）做定语，I have a great time (visiting my aunt in Canada) 就是，visiting my aunt in Canada, 整体修饰a great time   
+15.there be + 名字，是有什么东西的意思，是倒装句，例如there is an apple on the desk，翻译是桌子上有一个苹果。它的正常语序是an apple is there on the desk
+16.be动词后面接的以“的”结尾的是表语，以有“在…”的意思的副词就是状语
+It is next to the post office
+17.除了特有名词（sun，moon，China等）以及约定习惯（play football），其他名词前都要加a或者an或者the
+18.could和can是一个意思，都是情态助动词，could语气比can更委婉
+Could you just tell him to call me back?
+19.may是情态助动词
+20.must是情态助动词
+21.like也可以是介词，像…的意思，the weather is like what，是天气是像什么，就是天气
+是怎么样的意思
+22.would like =want 情态助动词
+23.动词后面很大可能要接名词，这样的动词叫及物动词，构成动宾短语（动词ing+宾语），相当于动名词结构，可以做定语，也可做宾语。相当于半个句子，没有谓语形式和时态，没有主语。
+I like (playing basketball).
+24.修饰成分一般是就近原则，但是，要根据意思来。
+25.以“的”结尾的才能是形容词，才能表语。以“在”开头的，都是状语，和in on under一样
+26.Sounds like(听起来像) + 一个完整句子，和 I think + 一个完整句子差不多
+27.定语从句关系代词（which  that）在从句中可以做主语，也可以做宾语
+the apple （that i am eating） is one dollar.. ----我正在吃的苹果是1美元
+28.定语从句内部是一个带了从句关系代词（that which的完整句子
+the apple （that comes from America） is one dollar. （关系代词在从句中做主语）
+the apple （that I am eating） is one dollar.  (关系代词在从句中做宾语)
+That's what I'm using here.
+就是句子还是 ”定主状谓补定宾“
+之前简单的定语，要么是形容词，要么是介宾短语，现在的定语变得复杂了，是一个句子。
+that is the thing （that I am using here）
+或者
+that is the thing （which I am using here）
+或者（that在从句中做宾语时，可以省略）
+that is the thing （I am using here）
+或者the thing that 可以用what来代替
+that is what i am using here
+29.谓语动词有及物动词和不及物动词之分，及物动词必须要接宾语，例如I eat an apple；不及物动词不能接宾语，例如I swim in the pool；
+30.被动语态的语法就是  原宾语 +  be+动词过去分词+by+原主语
+I eat an apple 我吃了一个苹果，
+an apple is eaten by me 一个苹果被我吃了
+31.这两个地方，都是时间省略了介词，例如省略了in ，at，本来是介宾短语做状语
+How was your trip last week?  你上周末旅游的如何
+I went fishing every day.      我每天去钓鱼
+四、单词词性
+1.动词 V
+2.名词 n---句子中的名词要么加a 要么加an 要么加the
+3.形容词 adj---只能为定语和表语
+4.副词 adv---只能为状语
+5.介词 prep
+6.介宾短语，一般只能为状语或定语 
+7.介宾短语 放在系动词后整体为表语
+8.词组 
