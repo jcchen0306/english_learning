@@ -41,7 +41,7 @@
   I eat and drink
   Dog and panda
 
-8.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为)
+8.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为), about(关于)
   The apple on the desk,
   In our room
   Under the desk
@@ -52,7 +52,7 @@
   He is beautiful 漂亮的是
   He looks good 看起来是
   The apple tastes delicious 吃起来是美味的
-  The listen sounds good 听起来是
+  The song sounds good 听起来是
   The dream comes true
   The elephants never get lost.
 
@@ -71,10 +71,9 @@
   名词除了特殊情况,一般要么是单数(前面加a或者an或者the)
   要么是复数, 名词后加s或者es(child 的复数是children)
 
-
 14.could和can是一个意思，都是情态助动词，could语气比can更委婉, 情态助动词还有 must, may, would, should, 
   Could you just tell him to call me back?
-  would like =want, would是情态助动词, like是喜欢,动词
+  would like = want, would是情态助动词, like是喜欢,动词
 
 15.动词分两种,一种叫及物动词,用Vt表示,后面必须接名词. 一种是不及物动词,后面不能接名词.
   It rains.
@@ -87,16 +86,25 @@
   we make things of ivory.
   things are made of ivory.
   
-17.已经见过的定语,可以是一个形容词,可以是一个介宾短语, 还有两种常见的形式, 就是动词ing构成短语,或动词过去分词构成的短语
-  I have a great time visiting my aunt.   visiting my aunt 相当于一个定语, 修饰time.相当于两个句子
-    I have a great time. I visit my my aunt in that time.
+17.已经见过的定语,可以是一个形容词,可以是一个介宾短语. 还有两种常见的形式, 就是动词ing(现在分词)构成短语,或动词过去分词构成的短语
+  people can not buy things costing too much money.    costing too much money.相当于一个定语,修饰things,由于意思上是things cost too much money.
+    是一个主动语态关系,所以用现在分词.相当于两个句子.people can not buy things. things cost too much money.
+
   people can not buy things made of ivory.  made of ivory相当于与一个定语,修饰 things, 由于 意思上是things are made of ivory,
     是一个被动语态关系,所以用过去分词.相当于两个句子.people can not buy things. things are made of irovy
+
+  动词的分词形式的定语,是选择现在分词还是过去分词, 主要看, 短语中动词和被修饰的名词之间的  主动还是被动的关系.
+  名词主动, 动词就用现在分词形式, 就是动词ing形式.
+  名词是需要被动语态, 动词就用过去分词, 就是动词的过去分词形式.
+
+  所以,动词的 分词形式(现在分词或过去分词)  其实可以等价于 形容词, 可以做定语.
+
 
 18.由于介词后面必须加名词, 而动词ing形式,意思可以是一种做某事的行为, 也就是动名词,所以经常可以见到 介词+动词ing(动词为及物动词时,要加宾语) 构成介宾短语.
   I go to school by riding a bike.
   I thank you for helping me.
   I go to shopping center by walking.
+  riding a bike is good for health.   riding a bike 就是一个动名词.动词变成的名词.
 
 19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish 后面接一个完整的句子,这个句子叫宾语从句.
   I think (that) it is good to you. that是宾语从句的关系代词,相当于that是主句中的think的宾语,然后, 从句 it is good to you 就是that的细化具体版. that 可以省略
@@ -105,26 +113,26 @@
 20.状语的位置一般可以随意放,最好是根据意思就近来,修饰谁,就在谁的附近.
 
 21.时态. 3*3,最基本的有9种 (过去,现在,将来)*(一般,进行,完成),时态只在谓语动词上做变化,
-                     一般                                              进行                                           完成
+                     一般 (一直在持续的发生)                             进行(某个时间点正在发生)                                      完成(某个时间点已经完成)
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------
     过去 |          一般过去时                       |            过去进行时                             |            过去完成时
         |      直接把动词改为过去式                   |         be动词过去式 + 动词ing                     |       had + 动词过去分词
-        | I finished my homework yesterday.        |  I was watching TV at 9 p.m. yesterday.         |I had finished my homework by 9 p.m. yesterday.
-        | I watch TV an hour ago.                  |  she was study in wuhan last year.              |I had got up by 7 a.m. today.
+        | I finished my homework yesterday.        |  I was watching TV at 9 p.m. yesterday.         |I had finished my homework by 9 p.m. yesterday. (by是直到的意思)
+        | I watched TV an hour ago.                |  she was studying in wuhan last year.           |I had got up by 7 a.m. today.
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------
     现在 |        一般现在时                         |            现在进行时                             |             现在完成时
-        |   动词直接是原型,或者三单现(动词后加s或者es)   |        be动词原型 + 动词ing                       |         have/has + 动词过去分词
+        |   动词直接是原型,或者三单现(动词后加s或者es)   |        be动词原型 + 动词ing                       |         have/has + 动词过去分词, has是三单现时用的.
         | I like swimming.                         |  I am watching TV.                              |I have finished my homework.
-        | Tom goes to school by bus.               |  she is study English.                          |I have gone to beijing.
+        | Tom goes to school by bus.(三单现)        |  she is studying English.                       |I have been to beijing.
     -----------------------------------------------------------------------------------------------------------------------------------------------------------------
     将来 |         一般将来时                        |            将来进行时                             |              将来完成时
         |  动词前加 will 或者 be going to            | will be + 动词ing,或者 be going to be + 动词ing   |  will have+动词过去分词或者 be going to have + 动词过去分词
-        | I will go to summer school.              | I will be study in New York next September.     |I will have graduated from middle school next June.
-        | I am going to get up at 7 a.m.           | I am going to be learn English next Sunday.     |I am going to have finished my homework by tomorrow evening.
+        | I will go to summer school.              | I will be studying in New York next September.  |I will have graduated from middle school next June.
+        | I am going to get up at 7 a.m.           | I am going to be learning English next Sunday.  |I am going to have finished my homework by tomorrow evening.
     ------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 22.三单现, 第三人称单数一般现在时.
-  排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数, 一般现在时的时候,谓语动词后加s 或者es.
+  排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数,就是三单现.谓语动词后加s 或者es.
 
 23.定语从句, 定语从句的关系代词,可以是which, that, why, when, where, how等
   the dog (that) the boy keeps is white.   that 为关系代词, the boy keeps 为从句, that 为keeps的宾语, that在从句中为宾语时,可以省略. 那个男孩养的狗是白色的. 从句修饰主句中的dog 做定语
@@ -154,12 +162,12 @@
   I went to wuhan two days later.
   I took a shower two days before.
 
-27.序数词,例如第一,第二,第三等等
-  first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelvth, thirteenth, fourteenth, fifteenth
+27.序数词,例如第一,第二,第三等等 (除了1,2,3是特殊情况,其他一般都是后面加th)
+  first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelvth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth, twentyth
   twenty-first, twenty-second, twenty-third, twenty-fourth
 
   或者用数字
-  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th
+  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th
   21st, 22nd, 23rd, 24th, 25th
 
 28. so...that...复合句式, 效果上相当于一个连词,连接了两个有因果关系的句子.
@@ -168,18 +176,29 @@
 29.what参与定语从句的构造,可以把what 拆成the things that,这样that是定语从句的关系代词.
   Please consider what they have done for you.
 
-30.含有使,让 的意思的动词,例如let, make, suggest,作为谓语动词,第二个动词需要用原型.
+30.含有使,让 的意思的动词,例如let, make, suggest,作为谓语动词,第二个动词需要用原型. (不变成ing形式 或者 不定式形式)
   Sad movies make me cry.
   the teacher lets me go.
   I suggest you study hard.
 
 31.几分支几的表达方法.
-  四分之一: one fourth
+  四分之一: one fourth   (相当于前面是分子,后面是分母)
   四分之二: two fourths
   四分之三: three fourths
 
   五分之一: one fifth
   五分之二: two fifths
+
+32.特殊词组
+  have time doing something. 有做什么的时间
+  have a great time doing something. 做某事很愉快的时光.
+
+33.动词的过去式和过去分词,一般都是在动词后加ed
+  然后每本教科书后面,都有关于不规则变化的动词收录表. 简称不规则动词.
+
+  过去式用在一般过去时.
+
+  过去分词用在被动语态,或完成时.
 
 四、单词词性
 1.动词 V
