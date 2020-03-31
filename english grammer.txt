@@ -1,99 +1,186 @@
 英语学习笔记
 一、自学准则
-1.不会的问题当时请教，学会，做笔记记录，准备随时被考查，不会就挨打。
-2.三思而后行，写出来的东西一定要是对的，错也只能错10%以内，超过就要挨打。
-3.任何事情都要有理由，有利可图，不然不能做。说不清理由还犟就挨打。
+1.不会的问题当时请教，学会，做笔记记录，准备随时被考查
+2.三思而后行，写出来的东西一定要是对的，错也只能错10%以内
+3.任何事情都要有理由，有利可图，不然不能做
 4.自己的资料要清清楚楚。比如微信里每一个朋友的备注名。
 5.重要微信15分钟回复。
+
 二、句子成分定义
 1.主语：一个句子的主体，名词 
-2.谓语：主语后的第一个动词，时态特征动词除外（be，have） ，
-3.宾语：宾语为名词
+2.谓语：主语后的第一个动词，时态特征动词和助动词除外（do, be， have）
+3.宾语：宾语为名词,在位于动词后
 4.定语：以“的”结尾，修饰名词 
-5.状语：以“地”结尾，修饰动词/形容词/副词  then只能为状语
+5.状语：以“地”结尾，修饰动词/形容词/副词
 6.补语： 和状语一样修饰动词，英语里都叫状语，汉语里动词前的叫状语，动词后的叫补语。
+
 三、句子结构分析
 1.定主状谓补定宾
 
-2.补语和状语是一样的，都是修饰动词，在英语里头，都可放在动词后面，可以是介宾短语，也可以是副词（以“地”结尾的）。在汉语里头，状语在动词前，补语在动词后。
-高兴地去上学：go to school happily。
+2.补语和状语是一样的，修饰动词/形容词/副词，在英语里头，都可放在任意位置，可以是介宾短语，也可以是副词（以“地”结尾的）。
+  在汉语里头，状语在动词前，补语在动词后。高兴地去上学：go to school happily。
 
 3.定语是形容词（以“的”结尾的）或者介宾短语，修饰名词，即主语 和宾语。
-桌子上的 大苹果：the big apple on the desk。
+  桌子上的 大苹果：the big apple on the desk。
 
-4.一个句子只能有一个谓语，第二个动词一般用ing形式，或者不定式加to形式。 
-I want to eat breakfast。
-I like swimming。
+4.一个句子只能有一个谓语动词，第二个动词一般用ing形式，或者不定式: 第二个动词前加to形式。 
+  I want to eat breakfast。
+  I like swimming。
 
-5.时态只作用于谓语动词上，现在进行时的 be + ing形式，谓语动词不是be。
-I am eating an apple。谓语动词是eat，时态是现在进行时。
+5.时态只作用于谓语动词上，现在进行时的 be + ing形式，谓语动词不是be,而是加了ing的那个动词。
+  I am eating an apple。谓语动词是eat，时态是现在进行时。
+
+6,面对面说话,例如请求和命令时,一般省略主语,这种句式叫祈使句.
+  Get out!
+  Don't be noisy!
+  Get up now!
+
+7.连词可以连接两个句子，或者两个祈使句，或者两个主语,或者两个谓语动词,或者两个宾语。And，or，so，but, because, if, although, as, since, until
+  Come and buy your clothes。
+  You and me
+  I eat and drink
+  Dog and panda
+
+8.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为)
+  The apple on the desk,
+  In our room
+  Under the desk
+  the weather is like what
+
+9.主系表结构
+  系=是, 包含be，look(看起来是)sound（听起来是）taste（吃起来是）come（变成是）get(变成是), 系动词后以“的”结尾的形容词叫表语
+  He is beautiful 漂亮的是
+  He looks good 看起来是
+  The apple tastes delicious 吃起来是美味的
+  The listen sounds good 听起来是
+  The dream comes true
+  The elephants never get lost.
+
+10.同位语：同一个东西（名词）的两个等价的说法，用逗号隔开，一般出现在主语和宾语两种情况，
+  Zhu Hui, a student from China is watching TV.
+  Zhu Hui loves New York, a place like home.
+  
+11.there be + 名词，是有什么东西的意思，是倒装句
+  例如there is an apple on the desk，翻译是桌子上有一个苹果。它的正常语序是an apple is there on the desk
+  Is there a post office near here?
+
+12.be动词后面接的以“的”结尾的是表语
+  It is next to the post office (next是表语,紧贴的,紧跟在后面的意思)
+
+13.除了特有名词（sun，moon，China等）以及约定习惯（play football），其他名词前都要加a或者an或者the
+  名词除了特殊情况,一般要么是单数(前面加a或者an或者the)
+  要么是复数, 名词后加s或者es(child 的复数是children)
 
 
-6.连词可以连接两个句子，或者两个祈使句，可以有两个动词。And，or，so，but, because, when, if
-Come and buy your clothes。
+14.could和can是一个意思，都是情态助动词，could语气比can更委婉, 情态助动词还有 must, may, would, should, 
+  Could you just tell him to call me back?
+  would like =want, would是情态助动词, like是喜欢,动词
 
-7.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around ，
-The apple on the desk,
-In our room
-Under the desk
-8.动词不定式第2个动词加ing 当名词用
-9.动词不定式为一个句子有两个动词时，第二个动词前加to
-I like to play basketball
-They make rules to help us
-We have to follow them
-10.主系表结构
-系=是  包含be，look(看起来是)sound（听起来是）taste（吃起来是）come（变成是）后以“的”结尾的叫表语，表语都是形容词
-He is beautiful 漂亮的是
-He looks good 看起来是
-The apple tastes delicious 吃起来是美味的
-The listen sounds good 听起来是
-The dream comes true
-11.以“地”结尾的副词为状语
-12.同一个成分2个并列要加and。语法里头同一个成分2个要用连词，两个独立句子也要用连词连接
-You and me
-I eat and drink
-Dog and panda
-13.同位语：同一个东西（名词）的两个等价的说法，用逗号隔开，一般出现在主语和宾语两种情况，
-It is 9:00a.m. and Zhu Hui’s family are at home 
-14.动宾短语（动词ing形式+一个宾语）做定语，I have a great time (visiting my aunt in Canada) 就是，visiting my aunt in Canada, 整体修饰a great time   
-15.there be + 名字，是有什么东西的意思，是倒装句，例如there is an apple on the desk，翻译是桌子上有一个苹果。它的正常语序是an apple is there on the desk
-16.be动词后面接的以“的”结尾的是表语，以有“在…”的意思的副词就是状语
-It is next to the post office
-17.除了特有名词（sun，moon，China等）以及约定习惯（play football），其他名词前都要加a或者an或者the
-18.could和can是一个意思，都是情态助动词，could语气比can更委婉
-Could you just tell him to call me back?
-19.may是情态助动词
-20.must是情态助动词
-21.like也可以是介词，像…的意思，the weather is like what，是天气是像什么，就是天气
-是怎么样的意思
-22.would like =want 情态助动词
-23.动词后面很大可能要接名词，这样的动词叫及物动词，构成动宾短语（动词ing+宾语），相当于动名词结构，可以做定语，也可做宾语。相当于半个句子，没有谓语形式和时态，没有主语。
-I like (playing basketball).
-24.修饰成分一般是就近原则，但是，要根据意思来。
-25.以“的”结尾的才能是形容词，才能表语。以“在”开头的，都是状语，和in on under一样
-26.Sounds like(听起来像) + 一个完整句子，和 I think + 一个完整句子差不多
-27.定语从句关系代词（which  that）在从句中可以做主语，也可以做宾语
-the apple （that i am eating） is one dollar.. ----我正在吃的苹果是1美元
-28.定语从句内部是一个带了从句关系代词（that which的完整句子
-the apple （that comes from America） is one dollar. （关系代词在从句中做主语）
-the apple （that I am eating） is one dollar.  (关系代词在从句中做宾语)
-That's what I'm using here.
-就是句子还是 ”定主状谓补定宾“
-之前简单的定语，要么是形容词，要么是介宾短语，现在的定语变得复杂了，是一个句子。
-that is the thing （that I am using here）
-或者
-that is the thing （which I am using here）
-或者（that在从句中做宾语时，可以省略）
-that is the thing （I am using here）
-或者the thing that 可以用what来代替
-that is what i am using here
-29.谓语动词有及物动词和不及物动词之分，及物动词必须要接宾语，例如I eat an apple；不及物动词不能接宾语，例如I swim in the pool；
-30.被动语态的语法就是  原宾语 +  be+动词过去分词+by+原主语
-I eat an apple 我吃了一个苹果，
-an apple is eaten by me 一个苹果被我吃了
-31.这两个地方，都是时间省略了介词，例如省略了in ，at，本来是介宾短语做状语
-How was your trip last week?  你上周末旅游的如何
-I went fishing every day.      我每天去钓鱼
+15.动词分两种,一种叫及物动词,用Vt表示,后面必须接名词. 一种是不及物动词,后面不能接名词.
+  It rains.
+  I eat an apple.
+
+16.汉语中有"把"字句和"被"字句,例如: 我把苹果吃了, 苹果被我吃了. 在英语中叫被动语态.
+  英语中的被动语态, 一般是 be+动词过去分词形式
+  I eat an apple.
+  An apple is eaten by me.
+  we make things of ivory.
+  things are made of ivory.
+  
+17.已经见过的定语,可以是一个形容词,可以是一个介宾短语, 还有两种常见的形式, 就是动词ing构成短语,或动词过去分词构成的短语
+  I have a great time visiting my aunt.   visiting my aunt 相当于一个定语, 修饰time.相当于两个句子
+    I have a great time. I visit my my aunt in that time.
+  people can not buy things made of ivory.  made of ivory相当于与一个定语,修饰 things, 由于 意思上是things are made of ivory,
+    是一个被动语态关系,所以用过去分词.相当于两个句子.people can not buy things. things are made of irovy
+
+18.由于介词后面必须加名词, 而动词ing形式,意思可以是一种做某事的行为, 也就是动名词,所以经常可以见到 介词+动词ing(动词为及物动词时,要加宾语) 构成介宾短语.
+  I go to school by riding a bike.
+  I thank you for helping me.
+  I go to shopping center by walking.
+
+19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish 后面接一个完整的句子,这个句子叫宾语从句.
+  I think (that) it is good to you. that是宾语从句的关系代词,相当于that是主句中的think的宾语,然后, 从句 it is good to you 就是that的细化具体版. that 可以省略
+  I remember (that) I finished my homework.
+
+20.状语的位置一般可以随意放,最好是根据意思就近来,修饰谁,就在谁的附近.
+
+21.时态. 3*3,最基本的有9种 (过去,现在,将来)*(一般,进行,完成),时态只在谓语动词上做变化,
+                     一般                                              进行                                           完成
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    过去 |          一般过去时                       |            过去进行时                             |            过去完成时
+        |      直接把动词改为过去式                   |         be动词过去式 + 动词ing                     |       had + 动词过去分词
+        | I finished my homework yesterday.        |  I was watching TV at 9 p.m. yesterday.         |I had finished my homework by 9 p.m. yesterday.
+        | I watch TV an hour ago.                  |  she was study in wuhan last year.              |I had got up by 7 a.m. today.
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    现在 |        一般现在时                         |            现在进行时                             |             现在完成时
+        |   动词直接是原型,或者三单现(动词后加s或者es)   |        be动词原型 + 动词ing                       |         have/has + 动词过去分词
+        | I like swimming.                         |  I am watching TV.                              |I have finished my homework.
+        | Tom goes to school by bus.               |  she is study English.                          |I have gone to beijing.
+    -----------------------------------------------------------------------------------------------------------------------------------------------------------------
+    将来 |         一般将来时                        |            将来进行时                             |              将来完成时
+        |  动词前加 will 或者 be going to            | will be + 动词ing,或者 be going to be + 动词ing   |  will have+动词过去分词或者 be going to have + 动词过去分词
+        | I will go to summer school.              | I will be study in New York next September.     |I will have graduated from middle school next June.
+        | I am going to get up at 7 a.m.           | I am going to be learn English next Sunday.     |I am going to have finished my homework by tomorrow evening.
+    ------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+22.三单现, 第三人称单数一般现在时.
+  排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数, 一般现在时的时候,谓语动词后加s 或者es.
+
+23.定语从句, 定语从句的关系代词,可以是which, that, why, when, where, how等
+  the dog (that) the boy keeps is white.   that 为关系代词, the boy keeps 为从句, that 为keeps的宾语, that在从句中为宾语时,可以省略. 那个男孩养的狗是白色的. 从句修饰主句中的dog 做定语
+  people should not buy things that are made of ivory.      that 为关系代词, that 在从句 that are made of ivory 中是主语,不可省略. 人们不应该买象牙做的东西. 从句修饰主句中的things 做定语
+  I remember meeting all of you when you were just starting Grade 7 at this school.
+  I don't know the reason why he committed suicide.
+  I don't love place where it is full of people.
+
+24.状语从句,关系代词可以是why, when, where
+  that is why I am late.         why I am late, 是一个从句,做is 的状语.所以是状语从句
+  I go to bed when I am tired.    when I am tired 是一个从句,做 go 的状语, 修饰在什么时间.所以是状语从句.
+
+25.比较级,最高级,一般是加在定语上,形容词上. 形容词后面加er/est,如果形容词太长,就在形容词前面加more/most
+  My computer is heavier than your computer.    我的电脑比你的更重.
+  this apple is bigger than that one.           这个苹果比那个更大.
+  his girl is more beautiful than mine.         他的女儿比我的更漂亮.
+
+  my girl is the most beautiful one.            我的女儿是最漂亮的一个
+  the mountain is the highest one in China.     那座山是中国最高的山.
+
+26.这两个地方，都是时间省略了介词，例如省略了in ，at，本来是介宾短语做状语
+  How was your trip last week?  你上周末旅游的如何
+  I went fishing every day.      我每天去钓鱼
+  I will go to America next year.
+  I finished high school two weeks ago.
+  I was watching TV right now.
+  I went to wuhan two days later.
+  I took a shower two days before.
+
+27.序数词,例如第一,第二,第三等等
+  first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelvth, thirteenth, fourteenth, fifteenth
+  twenty-first, twenty-second, twenty-third, twenty-fourth
+
+  或者用数字
+  1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th
+  21st, 22nd, 23rd, 24th, 25th
+
+28. so...that...复合句式, 效果上相当于一个连词,连接了两个有因果关系的句子.
+  I am so scared that I can not move. 我是如此害怕,以至于我不敢移动.
+
+29.what参与定语从句的构造,可以把what 拆成the things that,这样that是定语从句的关系代词.
+  Please consider what they have done for you.
+
+30.含有使,让 的意思的动词,例如let, make, suggest,作为谓语动词,第二个动词需要用原型.
+  Sad movies make me cry.
+  the teacher lets me go.
+  I suggest you study hard.
+
+31.几分支几的表达方法.
+  四分之一: one fourth
+  四分之二: two fourths
+  四分之三: three fourths
+
+  五分之一: one fifth
+  五分之二: two fifths
+
 四、单词词性
 1.动词 V
 2.名词 n---句子中的名词要么加a 要么加an 要么加the
@@ -101,5 +188,4 @@ I went fishing every day.      我每天去钓鱼
 4.副词 adv---只能为状语
 5.介词 prep
 6.介宾短语，一般只能为状语或定语 
-7.介宾短语 放在系动词后整体为表语
-8.词组 
+7.动宾短语. 动词ing形式+名词, 相当于一个名词, 可以做宾语,有时也可以做定语
