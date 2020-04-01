@@ -46,7 +46,9 @@
   I eat and drink
   Dog and panda
 
-8.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为), about(关于)
+8.介宾短语要么是定语要么是状语，介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为), 
+  about(关于), along(沿着), near(在...附近), between(在A和B之间,例如 between A and B, 这个介词要接两个宾语)
+
   The apple on the desk,
   In our room
   Under the desk
@@ -203,7 +205,15 @@
   my,    your, her,  his, their,  its, our, 这些词是形容词,以"的"结尾,做定语,后面要带名词.这些叫形容词性的代词. 对应的就有名词性的物主代词.
   mine, yours, hers, his, theirs, its, ours, 这些词都是名词. 相当于某某的东西. 后面不能再接名词. 他们都叫名词性物主代词.
 
-34.特殊词组
+34.形容词变副词
+  形容词只能做定语, 副词只能做状语
+  quick → quickly
+  happy → happily
+  slow → slowly
+  sad → sadly
+  safe → safely
+
+35.特殊词组
   have time doing something. 有做什么的时间
   have a great time doing something. 做某事很愉快的时光.
   watch somebody doing something. 看某人做某事
