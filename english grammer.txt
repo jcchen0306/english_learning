@@ -68,7 +68,7 @@
   this things is of great importance.
   the man is of medium build.
 
-10.同位语：同一个东西（名词）的两个等价的说法，用逗号隔开，一般出现在主语和宾语两种情况，
+10.同位语：同一个东西（名词）的两个等价的说法，用逗号或者破折号隔开，一般出现在主语和宾语两种情况，
   Zhu Hui, a student from China is watching TV.
   Zhu Hui loves New York, a place like home.
   
@@ -244,6 +244,10 @@
   对名词进行感叹时,将what放在最前头,后接要感叹的名词,句子的其他部分不变,放在后面.
   It is a big apple. → what a big apple it is!
   I am a genius. → what a genius I am!
+
+38.关于something, anything, somebody, anybody, everything, everybody等名词的定语放在其后的现象.
+  由于something等类似的合成词,比较长,所以常见的定语都是放在其后.
+  I have something very special.
 
 四、单词词性
 1.动词 V
