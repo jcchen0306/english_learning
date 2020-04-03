@@ -119,9 +119,13 @@
   I go to shopping center by walking.
   riding a bike is good for health.   riding a bike 就是一个动名词.动词变成的名词.
 
-19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish 后面接一个完整的句子,这个句子叫宾语从句.
+19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish, tell, see, wonder, find 后面接一个完整的句子,这个句子叫宾语从句.
   I think (that) it is good to you. that是宾语从句的关系代词,相当于that是主句中的think的宾语,然后, 从句 it is good to you 就是that的细化具体版. that 可以省略
   I remember (that) I finished my homework.
+  She tells me (that) it is dangerous.
+
+  宾语从句还有一种,就是介词后面的宾语,也变成一个从句.
+  I feel like (that) I was a bird.
 
 20.状语的位置一般可以随意放,最好是根据意思就近来,修饰谁,就在谁的附近.
 
@@ -229,6 +233,17 @@
 
   过去式用在一般过去时.
   过去分词用在被动语态,或完成时.
+
+37.感叹句
+  感叹句分两种,一种是对形容词和副词进行感叹,另一种是对名词进行感叹.
+
+  对形容词和副词进行感叹时,将how放在最前头,后接要感叹的形容词,句子的其他部分不变,放在后面.
+  She is beautiful. → How beautiful she is!
+  He runs quickly. →  How quickly he runs!
+
+  对名词进行感叹时,将what放在最前头,后接要感叹的名词,句子的其他部分不变,放在后面.
+  It is a big apple. → what a big apple it is!
+  I am a genius. → what a genius I am!
 
 四、单词词性
 1.动词 V
