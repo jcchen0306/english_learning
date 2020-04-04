@@ -47,7 +47,7 @@
   Dog and panda
 
 8.介宾短语要么是定语,要么是状语,要么做表语(the man is of medium build).介词：on, in, of, to, at, before, after, from, under, around, with, by, without, via, for, like(像), as(作为), 
-  about(关于), along(沿着), near(在...附近), between(在A和B之间,例如 between A and B, 这个介词要接两个宾语)
+  about(关于), along(沿着), near(在...附近), between(在A和B之间,例如 between A and B, 这个介词要接两个宾语), than(比)
 
   The apple on the desk,
   In our room
@@ -106,6 +106,8 @@
   people can not buy things made of ivory.  made of ivory相当于与一个定语,修饰 things, 由于 意思上是things are made of ivory,
     是一个被动语态关系,所以用过去分词.相当于两个句子.people can not buy things. things are made of irovy
 
+  the gift surprised me.  → I was surprised by the gift.  被动语态常用的介词是by, by something是被某物...(一个动作动词)的意思.
+
   动词的分词形式的定语,是选择现在分词还是过去分词, 主要看, 短语中动词和被修饰的名词之间的  主动还是被动的关系.
   名词主动, 动词就用现在分词形式, 就是动词ing形式.
   名词是需要被动语态, 动词就用过去分词, 就是动词的过去分词形式.
@@ -162,14 +164,17 @@
   that is why I am late.         why I am late, 是一个从句,做is 的状语.所以是状语从句
   I go to bed when I am tired.    when I am tired 是一个从句,做 go 的状语, 修饰在什么时间.所以是状语从句.
 
-25.比较级,最高级,一般是加在定语上,形容词上. 形容词后面加er/est,如果形容词太长,就在形容词前面加more/most
+25.比较级,最高级,一般是加在定语(形容词)上或者状语(副词)上. 形容词后面加er/est,如果形容词太长(超过3个拼音节),就在形容词前面加more/most
   My computer is heavier than your computer.    我的电脑比你的更重.
   this apple is bigger than that one.           这个苹果比那个更大.
   his girl is more beautiful than mine.         他的女儿比我的更漂亮.
+  I am quieter than most kids.                  我比其他小孩更安静.
+  He runs more quickly than me.                 他跑的比我更快.
 
   my girl is the most beautiful one.            我的女儿是最漂亮的一个
   the mountain is the highest one in China.     那座山是中国最高的山.
 
+  
 26.这两个地方，都是时间省略了介词，例如省略了in ，at，本来是介宾短语做状语
   How was your trip last week?  你上周末旅游的如何
   I went fishing every day.      我每天去钓鱼
