@@ -122,13 +122,16 @@
   I go to shopping center by walking.
   riding a bike is good for health.   riding a bike 就是一个动名词.动词变成的名词.
 
-19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish, tell, see, wonder, find 后面接一个完整的句子,这个句子叫宾语从句.
-  I think (that) it is good to you. that是宾语从句的关系代词,相当于that是主句中的think的宾语,然后, 从句 it is good to you 就是that的细化具体版. that 可以省略
+19.目前见过的宾语从句,都是 think, know, say, suggest, remember, forget, hope, wish, tell, see, wonder, find, see 后面接一个完整的句子,这个句子叫宾语从句.
+  I think (that) it is good to you. that是宾语从句的关系代词,没有实际意义. 如果that在从句中不充当任何成分或者只充当宾语,那么that 可以省略
   I remember (that) I finished my homework.
   She tells me (that) it is dangerous.
 
   宾语从句还有一种,就是介词后面的宾语,也变成一个从句.
   I feel like (that) I was a bird.
+
+  that 在从句中充当宾语
+  I want to eat that I like.
 
 20.状语的位置一般可以随意放,最好是根据意思就近来,修饰谁,就在谁的附近.
 
@@ -154,16 +157,22 @@
 22.三单现, 第三人称单数一般现在时.
   排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数,就是三单现.谓语动词后加s 或者es.
 
-23.定语从句, 定语从句的关系代词,可以是which, that, why, when, where, how等
-  the dog (that) the boy keeps is white.   that 为关系代词, the boy keeps 为从句, that 为keeps的宾语, that在从句中为宾语时,可以省略. 那个男孩养的狗是白色的. 从句修饰主句中的dog 做定语
-  people should not buy things that are made of ivory.      that 为关系代词, that 在从句 that are made of ivory 中是主语,不可省略. 人们不应该买象牙做的东西. 从句修饰主句中的things 做定语
-  I remember meeting all of you when you were just starting Grade 7 at this school.
-  I don't know the reason why he committed suicide.
-  I don't love place where it is full of people.
+23.定语从句和状语从句
+  定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what等
+  关系代词在从句中从当一些成分,例如状语,主语,宾语,或者不充当任何成分.
+  只有that 在从句中从当宾语是或者不充当任何成分时,才可以省略.其他关系代词不能省略.
 
-24.状语从句,关系代词可以是why, when, where
-  that is why I am late.         why I am late, 是一个从句,做is 的状语.所以是状语从句
-  I go to bed when I am tired.    when I am tired 是一个从句,做 go 的状语, 修饰在什么时间.所以是状语从句.
+  the dog (that) the boy keeps is white.                    that 为关系代词, the boy keeps 为从句, that 为keeps的宾语, that在从句中为宾语时,可以省略. 那个男孩养的狗是白色的. 从句修饰主句中的dog 做定语
+  people should not buy things that are made of ivory.      that 为关系代词, that 在从句 that are made of ivory 中是主语,不可省略. 人们不应该买象牙做的东西. 从句修饰主句中的things 做定语
+  I remember meeting all of you when you were just starting Grade 7 at this school.         when是在...时候的意思.从句在主句中充当状语. when为表示时间在时候的关系代词,不能省略.
+  I don't know the reason why he committed suicide.          why 为关系代词,在从句中充当状语,不能省略. 从句在主句中充当定语.
+  I don't love place where it is full of people.             where 为关系代词,在从句中充当状语,不能省略. 从句在主语中充当定语.
+
+  I go to bed when I am tired.    when 是关系代词,在从句中做状语, 从句在主句中充当状语. 所以是状语从句.
+
+24.表语从句
+  分析同上.
+  that is why I am late.         why是关系代词,在从句中充当状语. 从句在主句中充当be动词的表语. 所以是表语从句.
 
 25.比较级,最高级,一般是加在定语(形容词)上或者状语(副词)上. 形容词后面加er/est,如果形容词太长(超过3个拼音节),就在形容词前面加more/most
   My computer is heavier than your computer.    我的电脑比你的更重.
