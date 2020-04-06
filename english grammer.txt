@@ -84,7 +84,7 @@
   名词除了特殊情况,一般要么是单数(前面加a或者an或者the)
   要么是复数, 名词后加s或者es(child 的复数是children)
 
-14.could和can是一个意思，都是情态助动词，could语气比can更委婉, 情态助动词还有 must, may, would, should, 
+14.could和can是一个意思，都是情态助动词，could语气比can更委婉, 情态助动词还有 must, may, might, would, should, 
   Could you just tell him to call me back?
   would like = want, would是情态助动词, like是喜欢,动词
   情态助动词后面,一定是加动词原型.
@@ -130,8 +130,11 @@
   宾语从句还有一种,就是介词后面的宾语,也变成一个从句.
   I feel like (that) I was a bird.
 
-  that 在从句中充当宾语
-  I want to eat that I like.
+  that 在从句中充当宾语,在从句中充当宾语,可以省略.
+  I want to eat (that) I like.
+
+  that 在从句中做主语,在从句中充当主语,不能省略.
+  I think that is right.
 
 20.状语的位置一般可以随意放,最好是根据意思就近来,修饰谁,就在谁的附近.
 
@@ -159,12 +162,20 @@
 
 23.定语从句和状语从句
   定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what等
-  关系代词在从句中从当一些成分,例如状语,主语,宾语,或者不充当任何成分.
+  关系代词在从句中从当一些成分,例如状语,主语,宾语,或者不充当任何成分,但是关系代词都是提到了从句最前面,引领整个从句.
   只有that 在从句中从当宾语是或者不充当任何成分时,才可以省略.其他关系代词不能省略.
+
+  两个句子放一起,要么用连词表示并列同等关系,要么用关系代词表示主从关系(就是主句从句.一般是关系代词后的是从句,只有关系代词that在特定条件下可以省略).
+
+  从句是什么从句,就看它修饰什么,在主句中是什么成分.修饰名词,就是定语从句;修饰动词,就是状语从句;如果作为主语,就是主语从句;如果作为宾语,就是宾语从句.
+
+  至于用什么关系代词,要看从句想表达那个方便的意思. 想表示时间,就用when;想表示原因,就用why;想表示方法,就用how;想表示什么,就用that,which,what.
+
+  不可能没有谓语.就是不可能有谓语从句.
 
   the dog (that) the boy keeps is white.                    that 为关系代词, the boy keeps 为从句, that 为keeps的宾语, that在从句中为宾语时,可以省略. 那个男孩养的狗是白色的. 从句修饰主句中的dog 做定语
   people should not buy things that are made of ivory.      that 为关系代词, that 在从句 that are made of ivory 中是主语,不可省略. 人们不应该买象牙做的东西. 从句修饰主句中的things 做定语
-  I remember meeting all of you when you were just starting Grade 7 at this school.         when是在...时候的意思.从句在主句中充当状语. when为表示时间在时候的关系代词,不能省略.
+  I remember meeting all of you when you were just starting Grade 7 at this school.         when是在...时候的意思.从句在主句中充当定语. when为表示时间在时候的关系代词,不能省略.
   I don't know the reason why he committed suicide.          why 为关系代词,在从句中充当状语,不能省略. 从句在主句中充当定语.
   I don't love place where it is full of people.             where 为关系代词,在从句中充当状语,不能省略. 从句在主语中充当定语.
 
