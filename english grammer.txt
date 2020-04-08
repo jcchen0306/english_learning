@@ -161,7 +161,7 @@
   排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数,就是三单现.谓语动词后加s 或者es.
 
 23.定语从句和状语从句
-  定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what, whether, if 等
+  定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what, whether, if, as(相当于that,引领定语从句) 等
   关系代词在从句中从当一些成分,例如状语,主语,宾语,或者不充当任何成分,但是关系代词都是提到了从句最前面,引领整个从句.
   只有that 在从句中从当宾语是或者不充当任何成分时,才可以省略.其他关系代词不能省略.
 
@@ -180,6 +180,7 @@
   I don't love place where it is full of people.             where 为关系代词,在从句中充当状语,不能省略. 从句在主语中充当定语.
 
   I go to bed when I am tired.    when 是关系代词,在从句中做状语, 从句在主句中充当状语. 所以是状语从句.
+  scientists make robots do the same things as we do.      as,作为关系代词,相当于that,引领定语从句. 
 
 24.表语从句
   分析同上.
