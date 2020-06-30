@@ -278,6 +278,13 @@
   由于something等类似的合成词,比较长,所以常见的定语都是放在其后.
   I have something very special.
 
+39.英语中有些动词后面的第二个动词作为非谓语动词可以是原型，相当于省略了to的动词不定式
+   这些动词有 :
+   1)使役动词 let   make  have 
+   2)感官动词 see  hear  observe notice  feel  watch  
+   3) help
+   4)know 
+
 四、单词词性
 1.动词 V
 2.名词 n---句子中的名词要么加a 要么加an 要么加the
