@@ -55,6 +55,8 @@
   Under the desk
   the weather is like what
 
+  介宾短语只有时间相关的才能省略介词，也可以不省略。
+
 9.主系表结构
   系=是, 包含be，look(看起来是)sound（听起来是）taste（吃起来是）come（变成是）get(变成是), 系动词后以“的”结尾的形容词叫表语
   He is beautiful 漂亮的是
@@ -161,7 +163,7 @@
   排除法,在排除第一人称(我,我们),第二人称(你,你们),第三人称复数,就是三单现.谓语动词后加s 或者es.
 
 23.定语从句和状语从句
-  定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what, whether, if, as(相当于that,引领定语从句), 
+  定语从句和状语从句,都是在主句中做修饰成分,一般都需要关系代词, 可以是which, that, why, when, where, how, what, whether, if, as(相当于that,引领定语从句), who,whom（在从句中做宾语） 
   whenever (等价于no matter whene), however (等价于no matter how), whatever (等价于no matter what), everywhere, wherever (等价于no matter where)
 
   关系代词在从句中从当一些成分,例如状语,主语,宾语,或者不充当任何成分,但是关系代词都是提到了从句最前面,引领整个从句.
@@ -208,9 +210,11 @@
   I went to wuhan two days later.
   I took a shower two days before.
 
-27.序数词,例如第一,第二,第三等等 (除了1,2,3是特殊情况,其他一般都是后面加th)
+27.序数词,例如第一,第二,第三等等 (除了1,2,3是特殊情况,其他一般都是后面加th)  可以做名词，也可以做形容词
   first, second, third, fourth, fifth, sixth, seventh, eighth, ninth, tenth, eleventh, twelvth, thirteenth, fourteenth, fifteenth, sixteenth, seventeenth, eighteenth, nineteenth, twentyth
   twenty-first, twenty-second, twenty-third, twenty-fourth
+
+  the first kind 第一的种类，first做形容词修饰kind
 
   或者用数字
   1st, 2nd, 3rd, 4th, 5th, 6th, 7th, 8th, 9th, 10th, 11th, 12th, 13th, 14th, 15th, 16th, 17th, 18th, 19th, 20th
@@ -279,11 +283,20 @@
   I have something very special.
 
 39.英语中有些动词后面的第二个动词作为非谓语动词可以是原型，相当于省略了to的动词不定式
-   这些动词有 :
-   1)使役动词 let   make  have 
-   2)感官动词 see  hear  observe notice  feel  watch  
-   3) help
-   4)know 
+  这些动词有 :
+  1)使役动词 let   make  have 
+  2)感官动词 see  hear  observe notice  feel  watch  
+  3)help
+  4)know 
+
+40.接双宾语的动词
+  1）tell Tom a story 给Tom讲一个故事
+  2）give Tom a apple 给Tom一个苹果
+  3）make Tom my best friend 使Tom成为我最好的朋友
+
+41.最简单的句子，只有主语和谓语
+  1）I do. 
+
 
 四、单词词性
 1.动词 V
